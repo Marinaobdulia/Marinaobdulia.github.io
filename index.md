@@ -8,11 +8,14 @@
 <img src="images/output_11_0.png?raw=true"/>
 
 ---
+
 [House Pricing](/House_Pricing)
+<br>
 <img src="images/casas.png?raw=true"/>
 ---
 
 ### Clustering
+
 [Wine seen from Chemistry](/Wine)
 <img src="images/vino.png?raw=true"/>
 ---
@@ -24,6 +27,8 @@
 
 ---
 
+[NYC Taxi](/NYC_taxi)
+<img src="images/taxi_output_7_0.png?raw=true"/>
 
 
 
