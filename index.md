@@ -18,6 +18,7 @@
 ### Clustering
 
 [Wine seen from Chemistry](/Wine)
+<br> <br>
 <img src="images/vino.png?raw=true"/>
 
 ---
@@ -25,11 +26,13 @@
 ### Visualization
 
 [Madrid Pollution: The effect of Lockdown](https://marina-obdulia-moreno-gonzalez.shinyapps.io/AirApp/)
+<br> <br>
 <img src="images/map.png?raw=true"/>
 
 ---
 
 [NYC Taxi](/NYC_taxi)
+<br> <br>
 <img src="images/taxi_output_7_0.png?raw=true"/>
 
 ---
