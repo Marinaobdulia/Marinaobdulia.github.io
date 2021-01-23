@@ -1,8 +1,6 @@
 # Human Activity Recognition
 ---
 
-*Marina Moreno*
-
 The aim of this project was labelling different human activities upon the data register by 5 dimensional signals a 2-axes accelerometer and a 3-axes gyroscope. 
 
 The set of activities recorded for labelling were:
