@@ -10,14 +10,16 @@
 ---
 
 [House Pricing](/House_Pricing)
-<br>
+<br> <br>
 <img src="images/casas.png?raw=true"/>
+
 ---
 
 ### Clustering
 
 [Wine seen from Chemistry](/Wine)
 <img src="images/vino.png?raw=true"/>
+
 ---
 
 ### Visualization
@@ -29,8 +31,6 @@
 
 [NYC Taxi](/NYC_taxi)
 <img src="images/taxi_output_7_0.png?raw=true"/>
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
