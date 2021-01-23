@@ -4,20 +4,20 @@
 
 ### Machine Learning 
 
-[Human Activity Recognition](/human_activity)
+[Human Activity Recognition](/Human_Activity_Recognition)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[House Pricing](/house_pricing)
+[House Pricing](/House_Pricing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
+
 ### Clustering
-[Wine seen from Chemistry]
+[Wine seen from Chemistry](/Wine)
 <img src="images/vino.png?raw=true"/>
 ---
 
