@@ -1,9 +1,10 @@
 title: Marina Moreno # your name (or website title) here
-logo: "/images/perfil2.png?raw=true" # your photo (or logo) here
+logo: "/images/Perfil2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst | Biomedical Engineer 
   <br><br>
   <a href="https://www.twitter.com/BiomMarina/">View My Twitter</a>
+  <br><br>
   <a href="https://www.linkedin.com/in/marinamorenogonzalez/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
