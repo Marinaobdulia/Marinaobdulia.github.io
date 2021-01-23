@@ -1,10 +1,6 @@
-# House Pricing
+## House Pricing
 ---
-*Marina Moreno*
-
-The aim of this project was applying machine learning concepts to predict house prices, based on a set of given attributes. 
-
-The dataset used was downloaded from Kaggle. The methods used to model the predictors were Decision Tree and K-Nearest Neighbors Regressors.
+The aim of this project was applying machine learning concepts to predict house prices, based on a set of given attributes. The dataset used was downloaded from Kaggle. The methods used to model the predictors were Decision Tree and K-Nearest Neighbors Regressors.
 
 It has been used holdout (75% train, 25% test) for model evaluation, combined with 2-fold cross-validation for hyper-parameter tuning. Moreover, hyper-parameters have been adjusted using either random-search or bayesian-optimization.
 
@@ -35,9 +31,9 @@ from sklearn.model_selection import cross_val_score, train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=0)
 ```
 
-## DecisionTreeRegressor
+### DecisionTreeRegressor
 
-### No tuning
+#### No tuning
 
 
 ```python
@@ -56,7 +52,7 @@ print(root(metrics.mean_squared_error(y_test, y_test_pred)))
     0.18103570865775162
     
 
-### Random Search
+#### Random Search
 
 
 ```python
@@ -109,7 +105,7 @@ print(root(-tree2.best_score_))
     [Parallel(n_jobs=1)]: Done  40 out of  40 | elapsed:    0.1s finished
     
 
-### Bayesian Search
+#### Bayesian Search
 
 
 ```python
@@ -251,9 +247,9 @@ root(-tree3.best_score_)
 
 
 
-## KNN
+### KNN
 
-### No tuning
+#### No tuning
 
 
 ```python
@@ -270,7 +266,7 @@ print(root(metrics.mean_squared_error(y_test, y_test_pred)))
     0.17498917486701013
     
 
-### Random Search
+#### Random Search
 
 
 ```python
@@ -326,7 +322,7 @@ root(-knn2.best_score_)
 
 
 
-### Bayesian Search
+#### Bayesian Search
 
 
 ```python
