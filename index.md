@@ -5,15 +5,11 @@
 ### Machine Learning 
 
 [Human Activity Recognition](/Human_Activity_Recognition)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_11_0.png?raw=true"/>
 
 ---
 [House Pricing](/House_Pricing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/casas.png?raw=true"/>
 ---
 
 ### Clustering
