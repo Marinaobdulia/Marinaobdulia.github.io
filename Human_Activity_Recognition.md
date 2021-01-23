@@ -1,4 +1,4 @@
-# Human Activity Recognition
+## Human Activity Recognition
 ---
 
 The aim of this project was labelling different human activities upon the data register by 5 dimensional signals a 2-axes accelerometer and a 3-axes gyroscope. 
@@ -32,7 +32,7 @@ from sklearn.metrics import confusion_matrix
 ```
 
 
-# Part 1. Load the dataset.
+## Load the dataset.
 
 
 The labelled data was transferred into a pandas dataframe, which resulted into a matrix of 141,426 rows and 8 columns. Each row corresponded to a measurement performed every  0.0625s, as the recording frequency was 16 Hz. On the other hand, the first five columns corresponded to the sensors that recorded the movements and the remaining three accounted for the user number, the labelled activity and the timestamp. 
@@ -355,7 +355,7 @@ plot_activity(5, df);
     
 
 
-# Part 2. Pre-processing.
+## Pre-processing.
 
 This section consists on four procedurals used to clear out the data and to set it ready for fitting it to the model. Those are:
 * Splitting the data into train and test sets.
@@ -460,7 +460,7 @@ y_train = enc.transform(y_train)
 y_test = enc.transform(y_test)
 ```
 
-# Part 3. Create and fit the model.
+## Create and fit the model.
 
 Long Short Term Memory is an algorithm used on the deep learning field to classify time series data, as the one used on this assignment. The difficulty of this problem relies on the length of the sequences and variety of possible inputs the model can receive over time. Therefore, it is necessary for the model to learn the long-term dependencies between the coordinates given by the input sequence.
 
@@ -552,7 +552,7 @@ history = model.fit(
     11143/11143 [==============================] - 2s 186us/step - loss: 0.1840 - acc: 0.9385 - val_loss: 0.1277 - val_acc: 0.9645
     
 
-# Part 4. Evaluate the model.
+## Evaluate the model.
 
 The aim of this section was to evaluate the model in terms of overfitting and accuracy.The model showed no relevant overfitting and an accuracy of 83.1%. 
 
@@ -743,7 +743,7 @@ display(x)
     </tbody></table>
 
 
-# Part 5. Predict the unlabelled sequences.
+## Predict the unlabelled sequences.
 
 Finally, the unlabelled data was prepocessed as the prior data set and inputed to trained model in order to predict the missing labels. 
 
