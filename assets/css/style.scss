@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 a {
-  color:red;
+  color:#000000;
+}
+
+header > img {
+  width: 170px;
 }
