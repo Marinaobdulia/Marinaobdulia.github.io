@@ -1,9 +1,9 @@
-# NYC Taxi (2017)
+## NYC Taxi (2017)
 ---
 
 The objective of this project was performing three studies over the NYC taxi 2017 dataset using PySpark and SQL syntax.
 
-## Data Preparation
+### Data Preparation
 
 Firstly the dataset was imported in the form of a dataframe using the “read.csv” function. Since some entries were not containing valid logs, the whole data set was cleared up. The criteria used to do so was that the trips should have finished after the pickup time, their distance should be higher than 0 and the PULocationID and DOlocationID should be different.
 
@@ -291,7 +291,7 @@ df.limit(10).toPandas()
 
 
 
-## Zone with the most Pick-ups
+### Zone with the most Pick-ups
 
 
 ```python
@@ -308,7 +308,7 @@ most_PUlocation.limit(10).toPandas().plot(kind='bar',x='PULocationID',y='PUcount
     
 
 
-## Rate that reported the highest gains
+### Rate that reported the highest gains
 
 
 ```python
@@ -324,7 +324,7 @@ richer.toPandas().plot(kind='pie',x='RatecodeID',y='Yearly_total', labels=rateco
     
 
 
-## Average tip per passenger given the rate
+### Average tip per passenger given the rate
 
 
 ```python
@@ -338,7 +338,7 @@ avg_tip.toPandas().plot(kind='bar',x='RatecodeID',y='average')
     
 
 
-## Most common trips
+### Most common trips
 
 
 ```python
