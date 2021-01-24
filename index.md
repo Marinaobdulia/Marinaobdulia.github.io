@@ -3,25 +3,21 @@
 ---
 
 ### [Human Activity Recognition](/Human_Activity_Recognition)
-<br>
 <img src="images/HAR_bundle.png?raw=true"/>
 
 ---
 
 ### [Madrid Pollution: The effect of Lockdown](https://marina-obdulia-moreno-gonzalez.shinyapps.io/AirApp/)
-<br>
 <img src="images/pollution_bundle.png?raw=true"/>
 
 ---
 
 ### [Wine seen from Chemistry](/Wine)
-<br>
 <img src="images/wine_bundle.png?raw=true"/>
 
 ---
 
 ### [NYC Taxi](/NYC_taxi)
-<br>
 <img src="images/nyc_bundle.png?raw=true"/>
 
 ---
