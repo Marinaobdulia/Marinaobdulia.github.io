@@ -1,8 +1,9 @@
-## Portfolio
+# Portfolio
 
 ---
 
 [Human Activity Recognition](/Human_Activity_Recognition)
+<br> <br>
 <img src="images/HAR_bundle.png?raw=true"/>
 
 ---
@@ -13,9 +14,21 @@
 
 ---
 
+[Wine seen from Chemistry](/Wine)
+<br> <br>
+<img src="images/wine_bundle.png?raw=true"/>
+
+---
+
+[NYC Taxi](/NYC_taxi)
+<br> <br>
+<img src="images/nyc_bundle.png?raw=true"/>
+
+---
+## Kaggle Competitions
+
 - [House Pricing](/House_Pricing)
-- [Wine seen from Chemistry](/Wine)
-- [NYC Taxi](/NYC_taxi)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
