@@ -1,3 +1,5 @@
+[← Home](/index.md)
+
 ### Human Activity Recognition
 ---
 The aim of this project was labelling different human activities upon the data register by 5 dimensional signals a 2-axes accelerometer and a 3-axes gyroscope.
@@ -23,7 +25,7 @@ import keras
 from sklearn.metrics import confusion_matrix
 import altair as alt
 import matplotlib.pyplot as plt
-import seaborn as sns
+%matplotlib
 ```
 
 # Load dataset
@@ -75,10 +77,6 @@ df = add_labels(df)
 ```python
 df.iloc[0]
 ```
-
-
-
-
     acc_z             0.024173
     acc_XY            0.594417
     gy_x             -0.022736
@@ -578,6 +576,7 @@ model.compile(
 
 ```
 
+
 ```python
 # Fit the data to the model
 history = model.fit(
@@ -662,7 +661,7 @@ plot_history(history)
 
 
     
-![png](Human%20Activity%20Recognition_files/Human%20Activity%20Recognition_14_0.png)
+![png](images/Human%20Activity%20Recognition_14_0.png)
     
 
 
@@ -678,12 +677,6 @@ model.evaluate(x=X_test,y=y_test_encoded)
 ```
 
     113/113 [==============================] - 0s 3ms/step - loss: 0.3241 - acc: 0.8653
-
-
-
-
-
-    [0.32410928606987, 0.8652835488319397]
 
 
 
@@ -714,11 +707,11 @@ def plot_confusion_matrix(conf):
 plot_confusion_matrix(conf)
 ```
 
-    113/113 [==============================] - 1s 3ms/step
+    113/113 [==============================] - 0s 3ms/step
 
 
 
     
-![png](Human%20Activity%20Recognition_files/Human%20Activity%20Recognition_17_1.png)
+![png](images/Human%20Activity%20Recognition_17_1.png)
     
 
