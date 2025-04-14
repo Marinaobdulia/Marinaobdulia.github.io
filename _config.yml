@@ -1,5 +1,11 @@
-title: Marina Obdu # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: >
+  <div style="text-align: center;">
+  /images/title.png?raw=true
+  </div> # your name (or website title) here
+logo: >
+  <div style="text-align: center;">
+  /images/logo.png?raw=true
+  </div>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <div style="text-align: justify;">
   Senior Data Scientist with experience in the pharmaceutical industry and data consulting. 
