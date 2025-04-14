@@ -8,14 +8,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Proven ability to transform data into strategic solutions through 
   advanced analytics and process automation.
   </div>
-  <br><br>
+  <div style="text-align: left; margin-top: 12px;">
   <img src="/images/linkedin.png" height="16" width="16">
   <a href="https://www.linkedin.com/in/marinamorenogonzalez/">LinkedIn</a> 
   <br><br>
   <img src="/images/twitter.png" height="16" width="16">
   <a href="https://www.twitter.com/BiomMarina/">X</a>
-
-
+  </div>
   
 theme: jekyll-theme-minimal
 google_analytics: G-GZP9BDVZJM # your Google Analytics tracking ID here
