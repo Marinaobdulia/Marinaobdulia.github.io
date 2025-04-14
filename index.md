@@ -5,6 +5,9 @@
 ### [Human Activity Recognition](/Human_Activity_Recognition)
 <img src="images/HAR_bundle.png?raw=true"/>
 
+[![Alt text](/images/HAR_bundle.png?raw=true)](/Human_Activity_Recognition)
+
+
 ---
 
 ### [Madrid Pollution: The effect of Lockdown](https://marina-obdulia-moreno-gonzalez.shinyapps.io/AirApp/)
