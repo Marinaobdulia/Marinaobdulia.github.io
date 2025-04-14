@@ -8,7 +8,7 @@
 ---
 
 ### [Madrid Pollution: The effect of Lockdown](https://marina-obdulia-moreno-gonzalez.shinyapps.io/AirApp/)
-[![Alt text]((/images/pollution_bundle.png?raw=true))](https://marina-obdulia-moreno-gonzalez.shinyapps.io/AirApp/)
+[![Alt text](/images/pollution_bundle.png?raw=true)](https://marina-obdulia-moreno-gonzalez.shinyapps.io/AirApp/)
 
 ---
 
