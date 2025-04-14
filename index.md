@@ -4,6 +4,8 @@
 
 ### [Address NER](/Address_NER)
 Fine-tuning Spacy model to identify three classes inside addresses. Applying NLP tecnique known as NER to identify the type, name and street number.
+[![Alt text](/images/address_NER_bundle.png?raw=true)](/Address_NER)
+
 
 ---
 
