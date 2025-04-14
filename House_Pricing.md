@@ -1,3 +1,5 @@
+[← Back](/index.md)
+
 ## House Pricing
 ---
 The aim of this project was applying machine learning concepts to predict house prices, based on a set of given attributes. The dataset used was downloaded from Kaggle. The methods used to model the predictors were Decision Tree and K-Nearest Neighbors Regressors.

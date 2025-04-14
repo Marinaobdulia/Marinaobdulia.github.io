@@ -1,4 +1,4 @@
-[← Home](/index.md)
+[← Back](/index.md)
 
 ### Human Activity Recognition
 ---
