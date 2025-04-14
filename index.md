@@ -3,7 +3,6 @@
 ---
 
 ### [Human Activity Recognition](/Human_Activity_Recognition)
-[(/images/HAR_bundle.png?raw=true)](/Human_Activity_Recognition)
 [![Alt text](/images/HAR_bundle.png?raw=true)](/Human_Activity_Recognition)
 
 ---
@@ -16,10 +15,9 @@
 ### [NYC Taxi](/NYC_taxi)
 [![Alt text](/images/nyc_bundle.png?raw=true)](/NYC_taxi)
 
-
 ---
-### [House Pricing (Kaggle Competition)](/House_Pricing)
 
+### [House Pricing (Kaggle Competition)](/House_Pricing)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

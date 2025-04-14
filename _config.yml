@@ -1,16 +1,18 @@
 title: Marina Obdu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <div style="text-align: justify;">
   Senior Data Scientist with experience in the pharmaceutical industry and data consulting. 
-  Specialized in developing predictive models, natural language processing, and large-scale 
-  database exploitation. Proficient in SQL, Python, Power BI, and cloud platforms such as 
-  Azure and Cloudera. Proven ability to transform data into strategic solutions through 
-  visualization, advanced analytics, and process automation.
+  Specialized in developing predictive models, NLP, and large-scale 
+  database exploitation with Spark. Proficient in Python, SQL and Power BI. 
+  Proven ability to transform data into strategic solutions through 
+  advanced analytics and process automation.
+  </div>
   <br><br>
-  <img src= "/images/linkedin.png" height="16" width="16">
+  <img src="/images/linkedin.png" height="16" width="16">
   <a href="https://www.linkedin.com/in/marinamorenogonzalez/">LinkedIn</a> 
   <br><br>
-  <img src= "/images/twitter.png" height="16" width="16">
+  <img src="/images/twitter.png" height="16" width="16">
   <a href="https://www.twitter.com/BiomMarina/">X</a>
 
 
