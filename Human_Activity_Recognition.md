@@ -14,6 +14,7 @@ The set of activities recorded for labelling were:
 
 The data provided for this assignment corresponded to 10 different people, 8 of them labelled and 2 of them unlabelled. Each of the recordings lasted less than 20 minutes.
 
+__*Importing libraries*__
 
 ```python
 import numpy as np

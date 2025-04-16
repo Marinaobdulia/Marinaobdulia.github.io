@@ -1,3 +1,5 @@
+[← Back](/index.md)
+
 ## NYC Taxi (2017)
 ---
 The objective of this project was performing several studies over the NYC taxi 2017 dataset using PySpark and SQL syntax.
@@ -156,7 +158,7 @@ plt.show()
 
 
     
-![png](NYC%20Taxi_files/NYC%20Taxi_10_1.png)
+![png](images/NYC%20Taxi_10_1.png)
     
 
 
@@ -198,7 +200,7 @@ plot_graph_with_weights(graph)
 
 
     
-![png](NYC%20Taxi_files/NYC%20Taxi_12_1.png)
+![png](images/NYC%20Taxi_12_1.png)
     
 
 
@@ -229,7 +231,7 @@ plt.show()
 
 
     
-![png](NYC%20Taxi_files/NYC%20Taxi_14_1.png)
+![png](images/NYC%20Taxi_14_1.png)
     
 
 
@@ -257,6 +259,6 @@ plt.show()
 
 
     
-![png](NYC%20Taxi_files/NYC%20Taxi_16_1.png)
+![png](images/NYC%20Taxi_16_1.png)
     
 

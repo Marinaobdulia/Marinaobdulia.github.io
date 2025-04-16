@@ -16,7 +16,7 @@ Named entity recognition is a key technique in NLP that allows identifying and c
 
 ---
 
-*__Importing libraries__*
+__*Importing libraries*__
 
 
 ```python
