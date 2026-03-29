@@ -2,18 +2,29 @@ title: Marina Obdu
 logo: "/images/logo.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <div style="text-align: justify;">
-  Senior Data Scientist with experience in the pharmaceutical industry and data consulting. 
-  Specialized in developing predictive models, NLP, and large-scale 
-  database exploitation with Spark. Proficient in Python, SQL and Power BI. 
-  Proven ability to transform data into strategic solutions through 
-  advanced analytics and process automation.
+  Senior Data Scientist with experience in the pharmaceutical and consulting industries, 
+  specialized in predictive modeling, Marketing Mix Modeling (MMM), and data-driven strategy.
+  <br>
+  I lead the development of end-to-end data and AI solutions — from large-scale data 
+  processing with PySpark and robust ETL pipelines to model development with TensorFlow 
+  and deployment via APIs. I also design and build AI agents and LLM-powered systems to 
+  automate workflows and enhance decision-making. I combine strong technical expertise
+  with clear communication, working closely with stakeholders to translate complex data 
+  into actionable insights and measurable impact.
   </div>
-  <div style="text-align: left; margin-top: 12px;">
-  <img src="/images/linkedin.png" height="16" width="16">
-  <a href="https://www.linkedin.com/in/marinamorenogonzalez/">LinkedIn</a> 
-  <br><br>
-  <img src="/images/twitter.png" height="16" width="16">
-  <a href="https://www.twitter.com/BiomMarina/">X</a>
+  <div style="display: flex; gap: 20px; margin-top: 12px;">
+  <div>
+    <img src="/images/linkedin.png" height="16" width="16">
+    <a href="https://www.linkedin.com/in/marinamorenogonzalez/">LinkedIn</a> 
+  </div>
+  <div>
+    <img src="/images/twitter.png" height="16" width="16">
+    <a href="https://www.twitter.com/BiomMarina/">X</a>
+  </div>
+  <div>
+    <img src="/images/github.png" height="16" width="16">
+    <a href="https://github.com/marinaobdulia">GitHub</a>
+  </div>
   </div>
   
 theme: jekyll-theme-minimal

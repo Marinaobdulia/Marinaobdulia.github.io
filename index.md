@@ -3,6 +3,12 @@ A collection of projects I did for fun.
 
 ---
 
+### [AI Recipe Agent](/ai-recipe)
+Creating an AI agent to recommed what to cook.
+[![Alt text](/images/HAR_bundle.png?raw=true)](/ai-recipe)
+
+---
+
 ### [Human Activity Recognition](/Human_Activity_Recognition)
 Training a **LSTM network** to classify sensor recorded activities into 5 categories.
 [![Alt text](/images/HAR_bundle.png?raw=true)](/Human_Activity_Recognition)
