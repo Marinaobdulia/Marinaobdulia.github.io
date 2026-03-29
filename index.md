@@ -5,7 +5,7 @@ A collection of projects I did for fun.
 
 ### [AI Recipe Agent](/ai-recipe)
 Creating an AI agent to recommed what to cook.
-[![Alt text](/images/HAR_bundle.png?raw=true)](/ai-recipe)
+[![Alt text](/images/ai-recipe_bundle.png?raw=true)](/ai-recipe)
 
 ---
 
