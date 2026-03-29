@@ -1,3 +1,5 @@
+[← Back](/index.md)
+
 # AI Recipe Agent
 
 Tired of asking ourselves every day *“what should we eat?”*, my husband and I built an AI agent designed to reduce our mental load.
@@ -14,7 +16,7 @@ To make informed decisions, the agent pulls data from three main sources:
 - A Drive folder containing PDF receipts from our weekly groceries  
 - A Notion database with our family recipes  
 
-![Data sources](./images/data-sources.png)
+![Data sources](./images/datasources.png)
 
 The first two sources were connected via APIs. We set them up using Google Cloud Console, which initially felt overwhelming, but with the help of Claude, we managed to get everything running smoothly.
 
