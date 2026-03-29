@@ -2,15 +2,11 @@ title: Marina Obdu
 logo: "/images/logo.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <div style="text-align: justify;">
-  Senior Data Scientist with experience in the pharmaceutical and consulting industries, 
-  specialized in predictive modeling, Marketing Mix Modeling (MMM), and data-driven strategy.
+  Senior Data Scientist specialized in predictive modeling, MMM, and data-driven strategy.
+  Experienced on pharma industry and consulting.
   <br>
-  I lead the development of end-to-end data and AI solutions — from large-scale data 
-  processing with PySpark and robust ETL pipelines to model development with TensorFlow 
-  and deployment via APIs. I also design and build AI agents and LLM-powered systems to 
-  automate workflows and enhance decision-making. I combine strong technical expertise
-  with clear communication, working closely with stakeholders to translate complex data 
-  into actionable insights and measurable impact.
+  I develop end-to-end AI solutions using PySpark, TensorFlow, and 
+  LLM-powered systems to automate workflows and drive measurable impact.
   </div>
   <div style="display: flex; gap: 20px; margin-top: 12px;">
   <div>
@@ -20,10 +16,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <div>
     <img src="/images/twitter.png" height="16" width="16">
     <a href="https://www.twitter.com/BiomMarina/">X</a>
-  </div>
-  <div>
-    <img src="/images/github.png" height="16" width="16">
-    <a href="https://github.com/marinaobdulia">GitHub</a>
   </div>
   </div>
   

@@ -32,9 +32,9 @@ Some of the tools include:
 - A [recipe summarizer](https://github.com/Marinaobdulia/ai-recipe/blob/239eda2e72da44a2b51172d60075289e8b5bfbd4/tools/drive_tools.py#L111) powered by an LLM  
 - A [calendar integration](https://github.com/Marinaobdulia/ai-recipe/blob/main/tools/calendar_tools.py) to retrieve meals from the past week  
 
-![Architecture diagram](./images/architecture.png)
+![Architecture diagram](./images/architecture.jpg)
 
-You can check the full code [here](https://github.com/Marinaobdulia/ai-recipe/b)
+You can check the full code [here](https://github.com/Marinaobdulia/ai-recipe/)
 
 ---
 
